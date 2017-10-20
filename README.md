@@ -1,10 +1,12 @@
 # OpenSCAD LEGO® compatible parametric brick
-====
 
 A parametric OpenSCAD LEGO® compatible brick for 3D printing.
 
+![3D printed LEGO compatible bricks](https://github.com/brandonhill/Lego-compatible/blob/master/img/render.png)
+
+![3D printed LEGO compatible bricks - bottom view](https://github.com/brandonhill/Lego-compatible/blob/master/img/render-bottom.png)
+
 ## Usage:
----
 
 ```
 use <../Lego-compatible/Lego compatible brick.scad>;
@@ -13,7 +15,6 @@ lego_compatible_brick(x = 4, y = 2, z = 1);
 ```
 
 ## Module parameters
----
 
 Standard parameters:
 * **x**: [int|1] units long
